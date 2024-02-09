@@ -3,7 +3,7 @@
 </div>
 
 <hr>
-<a href="https://github.com/ItaloPachecoMustaro/dio-game-development-challenges/blob/main/README-EN.md">Não fala Inglês? Clique aqui para ver a versão em português.</a>
+<a href="https://github.com/ItaloPachecoMustaro/dio-game-development-challenges/blob/main/README.md">Não fala Inglês? Clique aqui para ver a versão em português.</a>
 <hr>
 
 ## 📚Description
