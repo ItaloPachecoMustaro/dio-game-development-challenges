@@ -1,0 +1,13 @@
+Versão Português
+
+Dada uma lista com as médias tiradas pelos alunos, imprima todas as médias que necessitam de aulas corretivas (média < 5).
+  - Este programa imprime médias de uma lista abaixo de 5, indicando aulas corretivas.
+  - Utiliza uma lista amostral de médias para demonstração.
+
+///
+
+English version
+
+Given a list with the averages taken by students, print all averages that require remedial classes (average < 5).
+ - This program prints averages from a list that are below 5, indicating remedial classes.
+ - It uses a sample list of averages for demonstration.

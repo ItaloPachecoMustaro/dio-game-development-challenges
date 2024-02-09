@@ -1,0 +1,13 @@
+Versão Português
+
+Dada uma lista com as notas tiradas pelos alunos, imprima a nota mais alta.
+  - Este programa imprime a nota mais alta de uma lista de notas.
+  - Utiliza uma lista de amostras de notas para demonstração.
+
+///
+
+English version
+
+Given a list with the grades taken by students, print the highest grade.
+ - This program prints the highest grade from a list of grades.
+ - It uses a sample list of grades for demonstration.

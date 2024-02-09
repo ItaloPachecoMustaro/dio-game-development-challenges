@@ -1,0 +1,35 @@
+Versão Português
+
+O Índice de Massa Corporal (IMC) é um critério da Organização Mundial da Saúde para dar uma indicação da condição de peso de um adulto.
+
+Fórmula IMC:
+IMC = peso / (altura * altura)
+
+Desenvolva um algoritmo que, dado o peso e a altura de um adulto, mostre sua condição conforme tabela abaixo.
+
+IMC em adultos Condição:
+
+Abaixo de 18,5 abaixo do peso;
+Entre 18,5 e 25 Peso normal;
+Entre 25 e 30 anos com Excesso de Peso;
+Entre 30 e 40 Obesos;
+Acima de 40 Obesidade grave;
+
+///
+
+English version
+
+The Body Mass Index (BMI) is a criterion of the World Health Organization to give an indication of an adult's weight condition.
+
+BMI Formula:
+BMI = weight / (height * height)
+
+Develop an algorithm that, given the weight and height of an adult, shows their condition according to the table below.
+
+BMI in adults Condition:
+
+Below 18.5 Underweight;
+Between 18.5 and 25 Normal weight;
+Between 25 and 30 Overweight;
+Between 30 and 40 Obese;
+Above 40 Severe obesity; 

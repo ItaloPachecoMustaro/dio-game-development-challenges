@@ -1,0 +1,23 @@
+Versão Português
+
+Desenvolva um algoritmo que calcule quanto deve ser pago por um produto, considerando o preço normal e a condição de pagamento escolhida. Utilize os códigos da tabela abaixo para ler qual condição de pagamento foi escolhida e fazer o cálculo adequado.
+
+Código de condição de pagamento:
+
+Débito à vista, recebe desconto de 10%;
+Dinheiro no Dinheiro ou PIX, recebe desconto de 15%;
+Em duas parcelas, preço normal sem juros;
+Mais de duas parcelas, preço normal mais 10% de juros;
+
+///
+
+English version
+
+Develop an algorithm that calculates what must be paid for a product, considering the normal price tag and the chosen payment condition. Use the codes from the table below to read which payment condition was chosen and make the appropriate calculation.
+
+Payment Condition Code:
+
+Cash Debit, receives a 10% discount;
+Cash in Money or PIX, receives a 15% discount;
+In two installments, normal price tag with no interest;
+More than two installments, normal price tag plus 10% interest;

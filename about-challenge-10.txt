@@ -1,0 +1,13 @@
+Versão Português
+
+Crie um programa capaz de percorrer uma lista de números e imprimir cada número par encontrado.
+  - Este programa percorre uma lista de números e imprime cada número par encontrado.
+  - Pode ser modificado para lidar com qualquer lista de números.
+
+///
+
+English version
+
+Create a program capable of traversing a list of numbers and printing each found even number.
+ - This program iterates through a list of numbers and prints each even number found.
+ - It can be modified to handle any list of numbers.

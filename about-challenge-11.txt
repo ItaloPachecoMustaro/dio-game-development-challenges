@@ -1,0 +1,13 @@
+Versão Português
+
+Faça um programa que, dada uma lista de nomes, imprima os nomes que começam com a letra “V”.
+  - Este programa imprime nomes de uma lista que começam com a letra “V”.
+  - Pode ser adaptado para diferentes listas de nomes.
+
+///
+
+English version
+
+Make a program that, given a list of names, prints the names that start with the letter "V".
+ - This program prints names from a list that start with the letter "V".
+ - It can be adapted for different lists of names.

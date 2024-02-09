@@ -1,0 +1,15 @@
+Versão Português
+
+Crie uma classe para representar carros.
+Os carros têm uma marca, uma cor e um consumo médio de combustível por quilômetro rodado.
+Crie um método que, dado o número de quilómetros e o preço do combustível, nos dê o valor
+gasto em reais para completar esse percurso.
+
+///
+
+English version
+
+Create a class to represent cars.
+Cars have a brand, a color and an average fuel consumption per kilometer driven.
+Create a method that, given the number of kilometers and the price of fuel, gives us the value
+spent in reais to complete this route.

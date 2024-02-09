@@ -1,0 +1,14 @@
+Versão Português
+
+Crie um programa que preencha uma lista com todos os números pares no intervalo de 10 a 50.
+  - Este programa preenche uma lista com todos os números pares entre 10 e 50.
+  - Demonstra a criação de listas com base em critérios específicos.
+​
+
+///
+
+English version
+
+Create a program that fills a list with all even numbers in the range from 10 to 50.
+ - This program populates a list with all even numbers between 10 and 50.
+ - It demonstrates list creation based on specific criteria.

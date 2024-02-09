@@ -1,0 +1,13 @@
+Versão Português
+
+Crie um programa que, dado um número, imprima sua tabuada.
+  - Este programa imprime a tabuada de um determinado número.
+  - Pode ser estendido para receber a entrada do usuário para o número.
+
+///
+
+English version
+
+Create a program that, given a number, prints its multiplication table.
+ - This program prints the multiplication table of a given number.
+ - It can be extended to take user input for the number.

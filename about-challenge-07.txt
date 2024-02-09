@@ -1,0 +1,17 @@
+Versão Português
+
+Crie uma classe para representar pessoas.
+Para cada pessoa teremos os atributos nome, peso e altura.
+As pessoas devem saber informar o valor do seu IMC (IMC = peso / (altura * altura));
+Instancie uma pessoa chamada José que pesa 70kg e tem 1,75 de altura e peça ao José para dizer o valor
+seu IMC;
+​
+///
+
+English version
+
+Create a class to represent people.
+For each person we will have the attributes name, weight and height.
+People must be able to tell the value of their BMI (BMI = weight / (height * height));
+Instantiate a person called José who weighs 70kg and is 1.75 tall and ask José to say the value
+your BMI;

@@ -1,0 +1,23 @@
+Versão Português
+
+Crie um programa para calcular o custo de uma viagem.
+
+Você terá 3 variáveis, a saber:
+1 – Preço do combustível;
+2 - Consumo médio de combustível do automóvel por KM;
+3 – Distância em KM da viagem;
+
+Imprima no console o valor que será gasto nesta viagem.
+
+///
+
+English version
+
+Create a program to calculate the cost of a trip.
+
+You will have 3 variables, namely:
+1 - Fuel price;
+2 - Car's average fuel consumption per KM;
+3 - Distance in KM of the trip;
+
+Print to the console the amount that will be spent on this trip.
